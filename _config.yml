@@ -14,12 +14,11 @@ author: Pranshu Pant
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Projects: "pranshupant.github.io"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Publications: "pranshupant.github.io"
+  About Me: "pranshupant.github.io/aboutme"
+  Projects: "pranshupant.github.io/projects"
+  Publications: "pranshupant.github.io/publications"
+  # Resources:
+  # - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
