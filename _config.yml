@@ -14,9 +14,9 @@ author: Pranshu Pant
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://pranshupant.github.io/aboutme/"
-  Projects: "https://pranshupant.github.io/projects/"
-  Publications: "https://pranshupant.github.io/publications/"
+  About Me: "aboutme"
+  Projects: "projects"
+  Publications: "publications"
   # Resources:
   # - Learn markdown: "https://www.markdowntutorial.com/"
 
@@ -97,17 +97,16 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+navbar-col: "#14110F"
+navbar-text-col: "#FFFFFF" # "#FF0000"
+navbar-children-col: "#F5F5F5"
+page-col: "#2F323A" #fixed
+page-text-col: "#FFFFFF"
+link-col: "#F4E76E" #"#FF0000"
+hover-col: "#00FFFF"
+footer-col: "#14110F" #"#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
