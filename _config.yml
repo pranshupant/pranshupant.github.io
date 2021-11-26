@@ -14,9 +14,9 @@ author: Pranshu Pant
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "pranshupant.github.io/aboutme"
-  Projects: "pranshupant.github.io/projects"
-  Publications: "pranshupant.github.io/publications"
+  About Me: "https://pranshupant.github.io/aboutme/"
+  Projects: "https://pranshupant.github.io/projects/"
+  Publications: "https://pranshupant.github.io/publications/"
   # Resources:
   # - Learn markdown: "https://www.markdowntutorial.com/"
 
