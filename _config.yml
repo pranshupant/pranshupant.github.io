@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Publications: "publications"
+  Resume: "http://pranshupant.github.io/PP_Resume_ML_website.pdf"
   # Resources:
   # - Learn markdown: "https://www.markdowntutorial.com/"
 
